@@ -1,4 +1,4 @@
-:Author: mortadelaz
+:Author: Raj
 :Email:
 :Date: 20/07/2025
 :Revision: version#
@@ -15,7 +15,6 @@ For example:
 
 1. Open this file
 2. Edit as you like
-3. Release to the World!
 
 == Step 2: Assemble the circuit
 
